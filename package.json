@@ -1,0 +1,22 @@
+{
+  "name": "react-2022",
+  "version": "1.0.0",
+  "description": "React App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dipanshu27/React-2022.git"
+  },
+  "author": "Dipanshu Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dipanshu27/React-2022/issues"
+  },
+  "homepage": "https://github.com/Dipanshu27/React-2022#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
